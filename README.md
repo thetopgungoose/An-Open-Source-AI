@@ -1,4 +1,8 @@
-MoodForge is a compact local AI model for classifying text by tone and style. It is designed as a realistic custom-model project for a Windows machine with an NPU, GPU, or CPU. 
+# MoodForge: a unique custom AI model
+
+MoodForge is a compact local AI model for classifying text by tone and style. It is designed as a realistic custom-model project for a Windows machine with an NPU, GPU, or CPU.
+
+## What makes it unique
 
 This is not a generic chatbot. It is a custom model trained to recognize the writing style of a sentence across four categories:
 
