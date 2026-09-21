@@ -5,9 +5,11 @@ MoodForge is a compact local AI model for classifying text by tone and style. It
 
 I made it a local ai model due to my dislike of the environmental impact of data centers. If you need clankers so bad just use local ai.
 
+This is not a generic chatbot. It is a custom model trained to recognize the writing style of a sentence across four categories, I will make changes to this when I have time. 
 
-This is not a generic chatbot. It is a custom model trained to recognize the writing style of a sentence across four categories:
+I purposely rendered this AI model to be incapable of image generation due to the fact that weirdoes love using it to do horrendous things. 
 
+Some personalities it has:
 - calm
 - bold
 - creative
