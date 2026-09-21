@@ -1,4 +1,4 @@
-# MoodForge: a unique custom AI model #
+# MoodForge, a relatively ethical AI with less environmental impact#
 **Relatively early in development**
 
 MoodForge is a compact local AI model for classifying text by tone and style. It is designed as a realistic custom-model project for a Windows machine with an NPU, like those that have Ryzen AI cpus, or intel Core Ultra 200V and 200S Series cpus.
