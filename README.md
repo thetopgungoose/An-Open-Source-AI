@@ -81,12 +81,12 @@ Predicted style: bold (93.12% confidence)
 - `app.py` — CLI interface
 - `export_onnx.py` — ONNX export script
 
-## Next upgrades
 
-- add a bigger custom dataset
-- use embeddings or a tiny transformer
-- build a local web UI
+Here are some plans I have.
+- adding a bigger custom dataset
+- using embeddings or a tiny transformer
+- building a local web UI
 - add multilingual text support
 - integrate with Intel/AMD/NPU acceleration frameworks
 
-This is a practical starter for building your own AI model locally instead of depending only on public hosted models.
+This is a practical starter for building your own AI model locally instead of depending only on public hosted models. Billionaires are evil.
